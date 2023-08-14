@@ -3,10 +3,18 @@ Power BI DashBoard For Atliq's Hotel Chain Performance
 
 If you find my dashboard interesting you can interact with it here on my [PowerBI Portfolio](https://www.novypro.com/project/atliq-hospitality-dashboard)
 ## About Atliq's Hotel Chain
-Atliq's Hotel Chain comprises of 25 Hotels located over 4 different cities in India. Bookings can be made for any of the Atliq's Hotels through platforms like direct online , direct offline, journey ,logtrip ,makeyourtrip , etc. The bookings are further divided based on room categeory  which are RT1, RT2, RT3, RT4 which represent Standard, Elite, Premium & Presedential Rooms respectively. These bookings can be cancelled by the customers, there can be a no show where customers did not arrive despite making a bookings or have been checked out. Additionally all bookings done provide ratings for their stay.
+- Atliq's Hotel Chain comprises of 25 Hotels located over 4 different cities in India. Bookings can be made for any of the Atliq's Hotels through platforms like direct online , direct offline, journey ,logtrip ,makeyourtrip , etc. 
+- The bookings are further divided based on room categeory  which are RT1, RT2, RT3, RT4 which represent Standard, Elite, Premium & Presedential Rooms respectively. These bookings can be cancelled by the customers, there can be a no show where customers did not arrive despite making a bookings or have been checked out. Additionally all bookings done provide ratings for their stay.
 
 ## About Project
-In this project I have built a dasboard with data provided for bookings done by customers over a period of 13 Weeks (May-June-July2022).I have analysed over 1M rows and made a comprehensive dashboard that provides information for analysis both on week level comparisions as well as monthly level analysis. Filters enabled for city & hotel level analysis where stake holders can see a performance of any hotel with their Key Metrics like Realistaion %, Occupancy %,  RevPar(Revenue Per Available Room), DSRN (Daily Sellable Room Nights), ADR (Average Daily Rate), etc.  Mainly emphasized on helping stake holders understand Occucpany & ADR Distribution on Weekday & Weekends.
+- In this project I have built a dasboard with data provided for bookings done by customers over a period of 13 Weeks (May-June-July2022).
+- I have analysed over 1M rows and made a comprehensive dashboard that provides information for analysis both on week level comparisions as well as monthly level analysis.
+- Filters enabled for city & hotel level analysis where stake holders can see a performance of any hotel with their Key Metrics like Realistaion %, Occupancy %,  RevPar(Revenue Per Available Room), DSRN (Daily Sellable Room Nights), ADR (Average Daily Rate), etc.  Mainly emphasized on helping stake holders understand Occucpany & ADR Distribution on Weekday & Weekends.
+
+## Data Model
+- Data Modelling is important & essential part to build relationships among datasets with multiple tables.
+- Poor data modeling affects the over all performance of the report.
+![Data Model](https://github.com/Umang-00/Hospitality_Domain_PBI/assets/117290368/5e3bcc8f-c706-45e8-a004-a5213d0bc540)
 
 ## Home Page
 ![Home Page](https://github.com/Umang-00/Hospitality_Domain_PBI/assets/117290368/f4b1bea3-4ca5-48e5-9262-84ec58be0968)
