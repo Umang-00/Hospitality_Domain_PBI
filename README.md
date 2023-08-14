@@ -1,6 +1,7 @@
 # Hospitality_Domain_PBI
 Power BI DashBoard For Atliq's Hotel Chain Performance
 
+If you find my dashboard interesting you can interact with it here on my ![PowerBI Portfolio](https://www.novypro.com/project/atliq-hospitality-dashboard)
 ## About Atliq's Hotel Chain
 Atliq's Hotel Chain comprises of 25 Hotels located over 4 different cities in India. Bookings can be made for any of the Atliq's Hotels through platforms like direct online , direct offline, journey ,logtrip ,makeyourtrip , etc. The bookings are further divided based on room categeory  which are RT1, RT2, RT3, RT4 which represent Standard, Elite, Premium & Presedential Rooms respectively. These bookings can be cancelled by the customers, there can be a no show where customers did not arrive despite making a bookings or have been checked out. Additionally all bookings done provide ratings for their stay.
 
